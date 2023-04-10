@@ -1,5 +1,6 @@
 # from config import*
-from functions import *
+
+from services import functions
 # imprt mysql.connector
 
 # cur.close()
